@@ -2,6 +2,23 @@
 
 この記事は((<RubyKaigi 2013|URL:http://rubykaigi.org/2013>))の3日目の午後にあった((<Be a library developer!|URL:http://rubykaigi.org/2013/talk/S94>))という発表に関する記事です。発表のまとめと、発表に対するコメントにコメントします。
 
+[Be a library developer!](slide-title.png) http://slide.rabbit-shocker.org/authors/kou/rubykaigi-2013/ へのリンクにしたい
+
+発表資料は以下にあります。どれも同じPDFをアップロードしているので見やすいサイトで閲覧してください。
+
+  * ((<SlideShare|URL:slideshare.net/kou/rubykaigi-2013>))
+  * ((<Speaker Deck|URL:http://speakerdeck.com/u/kou/p/be-a-library-developer>))
+  * ((<Rabbit Slide Show|URL:http://slide.rabbit-shocker.org/authors/kou/rubykaigi-2013/>))
+
+当日の動画は以下にあります。どちらも同じ動画です。
+
+  * ((<Ustream|URL:http://www.ustream.tv/recorded/33615831>))
+  * ((<Vimeo|URL:https://vimeo.com/TODO>))
+
+== 概要
+
+
+
 このセッションでは、みなさんにライブラリー開発者になって欲しいなぁ、という話をします。私自身、いろいろなライブラリーを開発してきましたが、ライブラリーを開発することで得られたことがたくさんあったなぁと思います。それはみなさんにとっても役に立つことだと思います。これから話すことは私がライブラリーを開発してきて得られたことのエッセンスです。
 
 == 概要
